@@ -1,3 +1,5 @@
+# this piece of code will only stream tweets published at the exact moment with certain hashtags, without storing them anywhere
+
 '''Twitter API streaming'''
 
 import tweepy
