@@ -17,7 +17,7 @@ We performed basic data analysis using Explorative Data Analysis-techniques and 
 #### Communication of results  
 [Summary as a public blog](http://giants.duckdns.org:2368/referendum-in-catalonia/)-post and oral presentation.  
 
-#### Operalization:  
+#### Operalization  
 The results of this project can be linked to many different fields and topics, such as:  
 - differences (and similarities) between social media presence and referendum results  
 - use of socal media (e.g. Twitter) data in Political Science and Sociological research  
