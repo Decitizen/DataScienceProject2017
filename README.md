@@ -13,6 +13,7 @@ We extracted two data sets (one from 08.10.2017 and one from 10.10.2017) from Tw
 
 #### Data analysis  
 We performed basic data analysis using Explorative Data Analysis-techniques and sentiment analysis.   
+[Python scripts used for data analysis](https://github.com/DeepIntuition/DataScienceProject2017/tree/master/j_notebooks)
 
 #### Communication of results  
 [Summary as a public blog](http://giants.duckdns.org:2368/referendum-in-catalonia/)-post and oral presentation.  
