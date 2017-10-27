@@ -3,7 +3,7 @@
 #### Ville Saarinen, Emmi Lahtisalo, Neli Noykova  
 
 ##### Data Science Project
-##### Introduction to Data Science, Fall 2017 @ Uni of Helsinki  
+##### Introduction to Data Science, Fall 2017, University of Helsinki  
 
 #### Pitch:  
 The goal is to obtain data-driven insight from social media reflection of two political events in Spain - the 08.10.2017 march against the independence of Catalonia, and on 10.10.2017 during and after Puigdemont's conclusive speech. For this purpose we use publicly available tools (open source, open data) and exploratory data analysis methods. The information, obtained from our analyses, could be useful for researchers, sociologists, politicians, and the public at large.
