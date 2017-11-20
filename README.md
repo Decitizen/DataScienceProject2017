@@ -16,9 +16,10 @@ We performed basic data analysis using Explorative Data Analysis-techniques and 
 [Python scripts used for data analysis](https://github.com/DeepIntuition/DataScienceProject2017/tree/master/j_notebooks)
 
 #### Communication of results  
-[Summary as a public blog](http://giants.duckdns.org:2368/referendum-in-catalonia/)-post and oral presentation.  
+[Summary as a public blog](http://giants.duckdns.org:2368/referendum-in-catalonia/)-post and oral presentation.
+Also available as [DataScience_Catalonia.pdf-file](https://github.com/DeepIntuition/DataScienceProject2017/blob/master/DataScience_Catalonia.pdf)
 
-#### Operalization  
+#### Operationalization  
 The results of this project can be linked to many different fields and topics, such as:  
 - differences (and similarities) between social media presence and referendum results  
 - use of socal media (e.g. Twitter) data in Political Science and Sociological research  
