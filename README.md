@@ -17,7 +17,8 @@ We performed basic data analysis using Explorative Data Analysis-techniques and 
 
 #### Communication of results  
 [Summary as a public blog](http://giants.duckdns.org:2368/referendum-in-catalonia/)-post and oral presentation.
-Also available as [DataScience_Catalonia.pdf-file](https://github.com/DeepIntuition/DataScienceProject2017/blob/master/DataScience_Catalonia.pdf)
+
+Also available as a pdf file: [DataScience_Catalonia.pdf](https://github.com/DeepIntuition/DataScienceProject2017/blob/master/DataScience_Catalonia.pdf)
 
 #### Operationalization  
 The results of this project can be linked to many different fields and topics, such as:  
